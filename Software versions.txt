@@ -1,0 +1,2 @@
+Arduino IDE 2.0.3
+Thonny 4.0.2
